@@ -9,3 +9,6 @@ I'm a Fullstack Developer (in training) based in Manchester, UK
 * 👍 Interests: Accesibility, aesthetics, eliminating bias in Machine Leaarning, reading, music, wanderlusting. 
 
 Follow me on CodeWars [here](https://www.codewars.com/users/ViennaBorowska "Vienna's Codewars Profile")
+
+View my Portfolio page [here](https://viennaborowska.github.io/VB-Junior-Dev-Portfolio/ "Vienna B's Portfolio")
+
