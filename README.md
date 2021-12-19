@@ -3,8 +3,8 @@ Hey there 👋, I'm Vienna B
 I'm a Fullstack Developer (in training) based in Manchester, UK
 
 
-🏢 I'm currently studying full stack web development at the University of Manchester.
-🔭 I'm currently working on improving my CSS styling knowledge and building up my Codewars scores.
-🌱 I’m currently learning Node, JavaScript and will soon be moving on to React.
-👍 Interests: Accesibility, aesthetics, eliminating bias in Machine Leaarning, reading, music, wanderlusting. 
+* 🏢 I'm currently studying full stack web development at the University of Manchester.
+* 🔭 I'm currently working on improving my CSS styling knowledge and building up my Codewars scores.
+* 🌱 I’m currently learning Node, JavaScript and will soon be moving on to React.
+* 👍 Interests: Accesibility, aesthetics, eliminating bias in Machine Leaarning, reading, music, wanderlusting. 
 
