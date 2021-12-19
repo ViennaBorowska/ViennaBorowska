@@ -8,3 +8,4 @@ I'm a Fullstack Developer (in training) based in Manchester, UK
 * 🌱 I’m currently learning Node, JavaScript and will soon be moving on to React.
 * 👍 Interests: Accesibility, aesthetics, eliminating bias in Machine Leaarning, reading, music, wanderlusting. 
 
+Follow me on CodeWars [here](https://www.codewars.com/users/ViennaBorowska "Vienna's Codewars Profile")
