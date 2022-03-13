@@ -12,5 +12,5 @@ Follow me on CodeWars [here](https://www.codewars.com/users/ViennaBorowska "Vien
 
 View my Portfolio page [here](https://viennaborowska.github.io/VB-Junior-Dev-Portfolio/ "Vienna B's Portfolio")
 
-Contact me directly [here](viennabdev@gmail.com "Vienna's E-mail Contact")
+Contact me directly @ viennabdev@gmail.com
 
