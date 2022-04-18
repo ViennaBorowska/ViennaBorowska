@@ -10,7 +10,3 @@ I'm a Fullstack Developer (in training) based in Manchester, UK
 
 Follow me on CodeWars [here](https://www.codewars.com/users/ViennaBorowska "Vienna's Codewars Profile")
 
-View my Portfolio page [here](https://viennaborowska.github.io/VB-Junior-Dev-Portfolio/ "Vienna B's Portfolio")
-
-Contact me directly @ viennabdev@gmail.com
-
