@@ -1,6 +1,6 @@
 Hey there 👋, I'm Vienna B
 
-I'm a Fullstack Developer (in training) based in Manchester, UK
+I'm a graduate Junior Full-Stack Developer based in Manchester, UK
 
 
 * 🏢 I will soon be graduation from a Full Stack Web Development course at the University of Manchester.
