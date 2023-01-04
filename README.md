@@ -8,6 +8,6 @@ I'm a graduate Junior Full-Stack Developer based in Manchester, UK
 * 🌱 My main strengths are the MERN stack technologies, especially front end design (React, CSS frameworks e.g MUI) and database configuration (Express, Apollo, MongoDB).
 * 👍 Interests: Accesibility, aesthetics, eliminating bias in Machine Learning, reading, music, wanderlusting. 
 
-![largeCW](https://user-images.githubusercontent.com/88041770/210566064-5829ecba-b3d5-409e-9555-1441ff4368d6.svg)
+![largeCW](https://user-images.githubusercontent.com/88041770/210566064-5829ecba-b3d5-409e-9555-1441ff4368d6.svg) <br />
 Follow me on CodeWars [here](https://www.codewars.com/users/ViennaBorowska "Vienna's Codewars Profile")
 
