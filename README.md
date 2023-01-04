@@ -9,5 +9,5 @@ I'm a graduate Junior Full-Stack Developer based in Manchester, UK
 * 👍 Interests: Accesibility, aesthetics, eliminating bias in Machine Learning, reading, music, wanderlusting. 
 
 Follow me on CodeWars [here](https://www.codewars.com/users/ViennaBorowska "Vienna's Codewars Profile")
-https://www.codewars.com/users/ViennaBorowska/badges/large
+
 
