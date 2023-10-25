@@ -1,10 +1,12 @@
 Hey there 👋, I'm Vienna B
 
-I'm a graduate Junior Full-Stack Developer based in Manchester, UK.
+I'm an Apprentice Full-Stack Developer with MoneySuperMarket Group, based in Manchester, UK.
 
 * 🏢 I have graduated from a Full Stack JavaScript Developer course at the University of Manchester with an A+.
 
-* 🔭 I'm currently working on strengthening & broadening my knowledge with continuation courses and solo projects such as; an Angular Task Tracker, Shopify Liquid themes, React artist webpage & a HTML/CSS/JS cheese-themed Wordle spoof.
+* 🎓 I'm currently studying on a 2 year Apprenticeship program with the Ada College for Digital Skills, covering modules in Ethics, Testing, Data Structures & Algorithms, Databases, SDLC and Programming in the first year.
+
+* 🔭 I'm also working on strengthening & broadening my knowledge with continuation courses and solo projects such as; a comprehensive Udemy Java course, a Vue.js course on LinkedIn Learning, a React artist webpage & a HTML/CSS/JS cheese-themed Wordle spoof.
 
 * 🌱 My main strengths are the MERN stack technologies, especially front end design (React, CSS frameworks e.g MUI) and database configuration (Express, Apollo, MongoDB).
 
